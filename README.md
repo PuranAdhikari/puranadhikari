@@ -29,6 +29,7 @@ I am a Full Stack Software Developer <img src="https://media.giphy.com/media/WUl
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
 
 </p>
 
