@@ -11,7 +11,7 @@
 
 ### 🤠 &nbsp;About Me :
 
-I am a Site Reliability Engineer and Full stack developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India, currently living in Berlin, Germany.
+I am a Full Stack Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nepal.
 
 <!-- - 🔭 I’m working as a Site Reliability Enginner @ Commercetools
 - ✍️ Blogs at [blog.jayadeep.me](http://blog.jayadeep.me/)
